@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvync",
+        "uuid": 22696164,
+        "checksum": "qtx33b"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
